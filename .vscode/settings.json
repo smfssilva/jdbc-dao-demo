@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "/home/silva/apps/junit-platform-console-standalone-1.6.0.jar",
+        "/usr/share/java/mysql-connector-java-8.0.26.jar"
+    ]
+}
